@@ -58,6 +58,7 @@
         ```
     - Herencia: Se hereda todo menos lo privado
     - Polimorfismo
+
 #### La base de UML
 
 - Booch
@@ -73,8 +74,19 @@ Para modelar en BPMN se puede usar herramientas CASE:
 - Power designer
 
 Para modelar diagramas de actividades (UML) se pude usar:
+
 - draw.io
 - Visio
 - Magicdraw
 - StarUML
 - Power Designer
+
+## Clase 4 (24/03/22)
+
+### Bachillerato actividad 1
+
+https://grupocinco.files.wordpress.com/2007/11/bpmn.pdf
+
+5) Descarta el paper el diagrama de actividad para el modelado de procesos de negocio? Que indica?
+
+6) Como se relacionan BPMN - XPDL - BPEL?
