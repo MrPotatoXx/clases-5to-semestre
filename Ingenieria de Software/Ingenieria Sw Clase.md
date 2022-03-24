@@ -1,14 +1,14 @@
-# Ingenieria de sofware
+# Ingeniería de software
 
 ## Clase 1 (16/03/22)
 
 ### Etapas del desarrollo de software
 
-- Analisis del sistema
+- Análisis del sistema
 - Diseño del Software
-- Construccion del software (Codificacion, implementacion)
+- Construcción del software (Codificación, implementación)
 - Pruebas del sistema (Testing o QA)
-- Puesta en marcha (Instalacion, produccion)
+- Puesta en marcha (Instalación, producción)
 - Mantenimiento del software :
     - Perfectivo
     - Correctivo
@@ -23,22 +23,22 @@
 
 ### La web
 
--> Formularios web (Capa de presentacion)
+-> Formularios web (Capa de presentación)
 
--> Verificar la informacion (Capa de negocio)
+-> Verificar la información (Capa de negocio)
 
--> Guardar la informacion en la (Capa de datos)
+-> Guardar la información en la (Capa de datos)
 
 ## Clase 3 (23/03/22)
 
-### Desarroyo orinetado a objetos: Paradigma y modelo UML
+### Desarrollo orientado a objetos: Paradigma y modelo UML
 
 ## Fundamentos del paradigma orientado a objetos
 
 - Elementos:
     - Modularidad: clases y objetos
-    - Abstraccion: obtener de un elemento concreto la clasificacion
-    - Encapsulacion
+    - Abstracción: obtener de un elemento concreto la clasificación
+    - Encapsulación:
 
 
         ```
