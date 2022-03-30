@@ -90,3 +90,32 @@ https://grupocinco.files.wordpress.com/2007/11/bpmn.pdf
 5) Descarta el paper el diagrama de actividad para el modelado de procesos de negocio? Que indica?
 
 6) Como se relacionan BPMN - XPDL - BPEL?
+
+## Clase 5 (30/03/22)
+
+### Fechas de prueba
+
+- 28 abril 15% Informe Exposición 1
+- 23 junio 30% Informe Exposición 2
+- 06 julio 20% Prototipo Funcional
+- 13 julio 15% Elevator Pitch
+- 20 julio 20% (Todo el semestre) Acumulativo del semestre
+- 27 julio Examen
+
+### Entrega Guía Formulación de Proyecto 1
+
+https://lms.inacap.cl/mod/folder/view.php?id=6748528
+
+Documentos obligatorios:
+
+- FODA.
+- Carta gantt.
+
+### A realizar
+
+Proximo miercoles:
+1) Encuesta
+2) FODA
+
+
+

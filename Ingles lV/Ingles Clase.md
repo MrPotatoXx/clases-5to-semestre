@@ -9,7 +9,7 @@ I have a massive headache.
 + you can take a pill.
 + you could sit down and relax.
 + you'd better take a pcr test.
-+ you should slee for a while.
++ you should sleep for a while.
 + you dont have to watch TV.
 
 *Give advice => Dar consejo*
