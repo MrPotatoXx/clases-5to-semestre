@@ -84,3 +84,40 @@ Hay muchas variables que pueden afectar el rendimiento de una instalación de AD
  - El hardware que seleccionas para tus controladores.
  - Las capacidades de su red.
  - Los tipos de enlaces WAN que conectas a sus sitios remotos.
+
+
+## Clase 2
+
+### Windows Server Update Services
+*WSUS* provee actualizaciones de seguridad para los sistemas operativos Microsoft. Mediante Windows Server Update Services, los administradores pueden manejar centralmente la distribución de parches a través de actualizaciones automáticas a todas las computadoras de la red corporativa.
+
+### ¿Que es WSUS?
+Windows Server Update Services es una función mas adentro del catalogo de roles disponible en Windows Server.
+
+Permite la distribución de los parches y actualizaciones publicadas por Microsoft de forma centralizada para todos los puestos cliente qu corran con cualquier sistema operativo de la multinacional, que forma practica, cómoda y programada permitiéndonos una gestión mas correcta del ancho de banda disponible en la LAN.
+
+### ¿Que es Directorio Activo?
+Este rol ofrece facilidad y administración en aquellas redes donde el numero de activos con clientes Microsoft es elevado ya que de forma simple reduciremos el ancho de banda que soportara nuestra red y tendremos controladas las actualizaciones de cada equipo, favorecieron asi la seguridad en nuestra LAN.
+
+No se podrá emplear en la actualización de aplicaciones de terceros como puedan ser Java, Flash Player o incluso para la actualización de las bases de datos ...
+
+### Opciones de Implementación
+- Usualmente un WSUS por sitio
+- WSUS implementación
+	- Único servidor
+	- Múltiples servidores
+	- Servidores desconectados
+- WSUS jerarquías
+	- Autónomos mode
+	- Replica mode
+- WSUS base de datos
+	- Windows Internal Database
+	- SQL Server database
+
+### Requerimientos de Instalacion
+Requerimientos de Software:
+- Internet Information Services 6.0 or newer
+- Microsoft .NET Framework 2.0 or newer
+- Microsoft Management Console 3.0
+- Microsoft Report Viewer Redistributable
+...
