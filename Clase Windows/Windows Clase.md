@@ -121,3 +121,12 @@ Requerimientos de Software:
 - Microsoft Management Console 3.0
 - Microsoft Report Viewer Redistributable
 ...
+
+## Clase 3
+
+### WSUS Windows Server Update Service
+
+Pasos instalación:
+1) Instalar rol -> wsus y iis
+2) Configurar rol
+3) GPO directiva de grupos: Herramientas, admin de directivas de grupos
