@@ -80,6 +80,7 @@ Para modelar diagramas de actividades (UML) se pude usar:
 - Magicdraw
 - StarUML
 - Power Designer
+- Enterprise architect
 
 ## Clase 4 (24/03/22)
 
@@ -117,5 +118,91 @@ Proximo miercoles:
 1) Encuesta
 2) FODA
 
+## Clase 6
 
+### Habla de formación de grupos y proyectos
 
+### Tips para la encuesta:
+
+- Preguntas cerradas o de selección múltiple
+- Cantidad acotada de preguntas (10 o 12)
+- Progresiones de preguntas (de general a particular)
+- Preguntas de no mucha exención
+- Preguntas alusivas a la hipótesis
+- Mínimo 20 personas
+
+    ```
+
+    ----------------------------------
+       Fortaleza       Oportunidades
+    ---------------|------------------
+                   |
+                   |
+         1*        |          2*
+                   |
+                   |
+    -------------  |------------------
+       Fortaleza       Oportunidades
+    ---------------|------------------
+                   |
+                   |
+         1*        |           2*
+                   |
+                   |
+
+    1* Definiciones internas respecto al proyecto
+
+    2* Definiciones depende dl proyecto mismo pero
+       si lo afectan desde el entorno
+
+    Mínimo 4 de cada una
+
+    ```
+## Clase 7
+
+Revicion de encuesta y foda
+
+Para la proxima semana traer
+
+Diagramas de casos de uso
+Calculo de puntos por caso de uso
+
+### Casos de uso 
+
+```
+Monito palo | Actor
+
+Ovalo | Caso de uso
+
+Linea | ÚNICA forma de conectar un actor y un caso de uso
+
+Flecha punteada + << tipo >> | Flecha para representar INCLUDE o EXTEND solo entre casos de uso
+
+Flecha recta | Para generalización o herencia solo entre casos de uso o solo entre actores
+
+```
+
+Caso de uso => Un requerimiento funcional del sistema
+
+Actor => Persona, Entidad o Sistema Externo que interactúa desde fuera con los requerimientos funcionales
+
+Base de datos NO ES UN REQUERIMIENTO FUNCIONAL
+
+El diagrama de C.U. es de un nivel de abstracción alto, por definición. Esto implica que no debería mostrar detalles de implementación, excepto que se explique en la ficha del  caso de uso
+
+![](/Ingenieria%20de%20Software/Material%20de%20apoyo/Caso-de-uso-ej-clase-7.png)
+
+## Clase 8
+
+### Métrica del Análisis de Puntos por Casos de Uso (PCU)
+
+La ecuación se compone de 4 variables:
+
+- Factor de Complejidad Técnica (TCF).
+- Factor de Complejidad Ambiental (ECF).
+- Puntos de Casos de Uso Desajustados (UUCP).
+- Factor de Productividad (PF).
+
+PCU = TCF * ECF * UUCP * PF
+
+El actor es una persona que interactúa a través de una interfaz.
